@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"thefinds4seekers.categories"}],"uuid":"5c8bc0590703491685fb772b6546df9d"}
