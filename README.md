@@ -134,7 +134,7 @@ FRONT
 API_URL=http://localhost:3001
 GOOGLE_MAPS_API_KEY=AIzaSyBwagwxR6PPGzFqcl-NG4FPVextZr1Nsds
 
-# GOOGLE_MAPS_API_KEY=AIzaSyAolXVBph\_\_8LXk-JukgnxDUI4LPDQAsxQ
+OLD ONE: GOOGLE_MAPS_API_KEY=AIzaSyAolXVBph\_\_8LXk-JukgnxDUI4LPDQAsxQ
 
 next.config.js
 
